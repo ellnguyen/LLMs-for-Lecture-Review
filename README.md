@@ -58,7 +58,6 @@ To put things in a more broad perspective, I see this as an example of how there
 
 ## What relevant subfields of programming languages contributed to towers of hanoi and graph theory?
 
->Towers of Hanoi
 >1. Recursive Programming: Essential for implementing the solution to the problem.
 >2. Algorithm Design: Focuses on understanding and analyzing recursive algorithms.
 >3. Educational Programming Languages: Used to teach recursion and problem-solving.
