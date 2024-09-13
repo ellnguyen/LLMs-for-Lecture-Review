@@ -30,7 +30,7 @@ A few points from its response are listed below:
 >4. Recursive Algorithms: The Towers of Hanoi is naturally recursive, and recursive strategies can also be used in shortest path algorithms (e.g., dynamic programming approaches).
 
 
-To summarize, ChatGPT brings up some interesting ways of representing the two problems. For instance, both problems can be represented as state spaces where each state is a configuration of the problem. That is, the state may be
+To summarize, ChatGPT brings up some interesting ways to represent the two problems. For instance, both problems can be represented as state spaces where each state is a configuration of the problem. That is, the state may be
 1. the arrangement of disks in Towers of Hanoi
 2. or nodes in a graph
 
